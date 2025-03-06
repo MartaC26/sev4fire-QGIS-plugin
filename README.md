@@ -3,6 +3,8 @@ sev4fire is a plugin for QGIS that returns a vector file of the fire classified 
 This plugin is explained in my Master's Final Project for the Geotechnologies and GIS Project Development program at the University of Oviedo.
 Additionally, a manual in Spanish is provided on how to use the plugin.
 
+Este complemento es un proyecto original de Marta Cumplido Piñera (2024). Todos los derechos reservados. No se permite el uso comercial sin permiso previo.
+
 # SPANISH
 
 ## 📂 Instalación Manual  
